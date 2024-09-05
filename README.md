@@ -4,7 +4,7 @@ This project presents a **Sales Dashboard** developed using Power BI. The dashbo
 
 ## Dashboard Overview
 
-![Sales Dashboard](path_to_your_image)
+![Sales Dashboard](https://drive.google.com/file/d/12Tkta5e0ZxCcAXbWN4mKNKKA5D-y3kFg/view?usp=sharing)
 
 ### Key Metrics Displayed:
 - **Total Amount**: The sum of all sales made.
@@ -28,9 +28,5 @@ This project presents a **Sales Dashboard** developed using Power BI. The dashbo
 - **Quantity Slider**: Filter sales based on the quantity of products purchased.
 - **Gender**: Filter based on customer gender (Male/Female).
 
-## Usage Instructions
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
    
