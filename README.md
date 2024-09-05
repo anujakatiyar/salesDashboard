@@ -4,7 +4,7 @@ This project presents a **Sales Dashboard** developed using Power BI. The dashbo
 
 ## Dashboard Overview
 
-![Sales Dashboard](https://drive.google.com/file/d/12Tkta5e0ZxCcAXbWN4mKNKKA5D-y3kFg/view?usp=sharing)
+![Sales Dashboard](https://github.com/anujakatiyar/salesDashboard/blob/main/Screenshot%20(1326).png)
 
 ### Key Metrics Displayed:
 - **Total Amount**: The sum of all sales made.
